@@ -1,0 +1,20 @@
+# BMAD scratch (the /bmad-* skills) — committed evidence lives in docs/planning/ instead
+_bmad/
+_bmad-output/
+.claude/
+
+# Node / Python
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+*.log
